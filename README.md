@@ -41,6 +41,6 @@ governance system is transparent and encourages active citizen participation, en
 development, Quadaral City is a shining example of sustainable growth and the future of urban living.
 
 
-
+## For Full Information
 https://docs.google.com/document/d/e/2PACX-1vRel6dCkbXRn4mv9Nu0TRa0pnRw2JmSSKiq0L46-fvHd-T7ZnajZXhYQa3WvWok2mN6yxgCeX_nsNOo/pub
 

@@ -1,4 +1,4 @@
-## Quadaral City
+## Quadral City
 
 ## The Team ( Team No : 18)
 
@@ -25,8 +25,8 @@ The proposal must cover various aspects such as:
 - **Location:** State government oversight
 - **Natural features:** Forests, lakes, and water bodies
 
-## Overview of Quadaral City
-Quadaral City is a forward-thinking smart city located near the border of Karnataka and Andhra Pradesh, covering 1,500 square kilometers above the Tungabhadra River. 
+## Overview of Quadral City
+Quadral City is a forward-thinking smart city located near the border of Karnataka and Andhra Pradesh, covering 1,500 square kilometers above the Tungabhadra River. 
 Positioned between key towns like Hatti, Maski, Manvi, and Sirwar, it serves as an important urban center in the region. The city integrates modern technology with
 sustainable practices, offering a high quality of life while reducing its environmental impact. With an emphasis on green spaces, efficient public transport, and
 renewable energy, Quadaral is designed to be a model of modern urban living.

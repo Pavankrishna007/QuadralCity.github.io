@@ -44,3 +44,33 @@ development, Quadaral City is a shining example of sustainable growth and the fu
 ## For Full Information
 https://docs.google.com/document/d/e/2PACX-1vRel6dCkbXRn4mv9Nu0TRa0pnRw2JmSSKiq0L46-fvHd-T7ZnajZXhYQa3WvWok2mN6yxgCeX_nsNOo/pub
 
+## SDGs (Sustainable Development Goals)
+Sustainable Development Goals are a set of 17 global goals established by the United Nations, aimed at addressing urgent global challenges such as poverty, inequality, climate change, environmental degradation, and peace. These goals guide efforts toward creating a more sustainable, inclusive, and equitable world by 2030.
+
+Each business use case contributes to specific SDGs, ensuring that local solutions have a global impact. By aligning business strategies with these goals, we aim to foster positive social, economic, and environmental outcomes within our city.
+
+## Business Use Cases
+
+- Transportation
+An innovative transport solution focused on efficient, sustainable mobility within the city, improving urban infrastructure and reducing traffic congestion.
+
+- Waste Management System
+We are using te best waste management system which is used in most doveloped countries, where there is 0% of waste and also the waste is used in the best and usefull ways.
+
+- Electricity
+There are many ways to produce electricity in our smart city one with solar plant and one the part of waste management system.
+
+- Food preservation 
+There is huge food wastage in many areas or countries the food wastage or the food which is left can be used as ferilizers.
+  
+- Pollution
+There are plenty of trees in our city to reduce the pollution and to reducce the production of pollution we are using electric vehicles.
+  
+- Water preservation 
+The water wich are used will be sent into the ground using some techniques the used water will be purified naturally and for drinking water the water from the lake will
+be supplied to every house after getting filtered.
+
+
+
+
+

@@ -42,9 +42,5 @@ development, Quadaral City is a shining example of sustainable growth and the fu
 
 
 
-
-
-
-
-[Write more detailed information about the city here, such as the city's concept, vision, and unique features.]
+https://docs.google.com/document/d/e/2PACX-1vRel6dCkbXRn4mv9Nu0TRa0pnRw2JmSSKiq0L46-fvHd-T7ZnajZXhYQa3WvWok2mN6yxgCeX_nsNOo/pub
 

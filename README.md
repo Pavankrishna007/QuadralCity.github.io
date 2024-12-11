@@ -42,7 +42,7 @@ development, Quadaral City is a shining example of sustainable growth and the fu
 
 
 ## For Full Information
-%https://docs.google.com/document/d/e/2PACX-1vRel6dCkbXRn4mv9Nu0TRa0pnRw2JmSSKiq0L46-fvHd-T7ZnajZXhYQa3WvWok2mN6yxgCeX_nsNOo/pub%
+https://docs.google.com/document/d/e/2PACX-1vRel6dCkbXRn4mv9Nu0TRa0pnRw2JmSSKiq0L46-fvHd-T7ZnajZXhYQa3WvWok2mN6yxgCeX_nsNOo/pub
 
 ## SDGs (Sustainable Development Goals)
 Sustainable Development Goals are a set of 17 global goals established by the United Nations, aimed at addressing urgent global challenges such as poverty, inequality, climate change, environmental degradation, and peace. These goals guide efforts toward creating a more sustainable, inclusive, and equitable world by 2030.

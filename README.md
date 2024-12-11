@@ -52,5 +52,5 @@ Each business use case contributes to specific SDGs, ensuring that local solutio
 
 ## Topic Learning Outcomes
 
-- Rajath : https://docs.google.com/document/d/e/2PACX-1vTeE6mvPZ52FSTXsFmfLDYepBWRYBi1-rfUA4i7jl-h2XQupn-ymuIlBewtSuwwlAt87bIxuLbqPhYa/pub
+- Rajath : https://docs.google.com/document/d/1JzEBxDjt8cXm7sofgKQQrf-ANizHHSTJSEZmQ0RPolc/edit?usp=sharing
 - Pavan Krishna : 

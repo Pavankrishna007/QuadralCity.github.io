@@ -77,6 +77,6 @@ The water wich are used will be sent into the ground using some techniques the u
 be supplied to every house after getting filtered.
 
 
+## **Topic Learning Outcomes**
 
-
-
+- Rajat : https://docs.google.com/document/d/e/2PACX-1vTeE6mvPZ52FSTXsFmfLDYepBWRYBi1-rfUA4i7jl-h2XQupn-ymuIlBewtSuwwlAt87bIxuLbqPhYa/pub 

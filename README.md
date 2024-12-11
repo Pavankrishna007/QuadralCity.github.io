@@ -1,12 +1,6 @@
-# QuadralCity.github.io
+# QuadaralCity.github.io
 
----
-layout: post
-title: "Quadaral Smart City Proposal"
-date: 2024-12-01
-categories: [smart-city, proposal]
-author: "Pavan Krishna Sai. D, Rajat, Rahul, Shreedhar"
----
+#Quadaral City
 
 ## The Team
 

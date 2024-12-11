@@ -29,28 +29,14 @@ The proposal must cover various aspects such as:
 
 ## Overview of Quadaral City
 
+      Quadaral City is a forward-thinking smart city located near the border of Karnataka and Andhra Pradesh, covering 1,500 square kilometers above the Thungabhadra River. Positioned between key towns like Hatti, Maski, Manvi, and Sirwar, it serves as an important urban center in the region. The city integrates modern technology with sustainable practices, offering a high quality of life while reducing its environmental impact. With an emphasis on green spaces, efficient public transport, and renewable energy, Quadaral is designed to be a model of modern urban living.
+
+      The city is equipped with advanced systems for water management, energy conservation, and public safety. Artificial intelligence (AI) is used to manage traffic, waste, and city services, ensuring smooth and efficient operations. Quadaral’s healthcare and education facilities use cutting-edge technologies to deliver excellent services, while its booming industrial and commercial sectors benefit from strategic connections to surrounding areas. This combination of factors makes Quadaral a hub of innovation and economic growth.
+
+      Culturally rich and diverse, Quadaral City celebrates the traditions of both Karnataka and Andhra Pradesh through festivals, art exhibitions, and cultural events. The city’s governance system is transparent and encourages active citizen participation, ensuring the community’s involvement in its growth. With its progressive approach to urban development, Quadaral City is a shining example of sustainable growth and the future of urban living.
 
 
-**Electricity Generation**
-Using river currents flowing throughout the city to generate electricity sustainably.
 
-**Transport**
-An exclusive, private transport facility to help residents navigate within the city.
-
-**EV Charge Stations**
-A private company setting up charging stations, including an application for their business.
-
-**Food Delivery Service**
-An efficient service ensuring timely delivery of meals across the city.
-
-**Automobile Service Centers**
-Centers offering repairs and maintenance for vehicles at convenient locations.
-
-**Homestay**
-Providing homestay options for travelers, offering a local touch and comfortable stays.
-
-**Short-Term Rentals**
-Short-term room rental services located in key parts of the city.
 
 [Write more detailed information about the city here, such as the city's concept, vision, and unique features.]
 

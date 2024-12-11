@@ -49,8 +49,36 @@ Sustainable Development Goals are a set of 17 global goals established by the Un
 
 Each business use case contributes to specific SDGs, ensuring that local solutions have a global impact. By aligning business strategies with these goals, we aim to foster positive social, economic, and environmental outcomes within our city.
 
+## Business Use Cases
+-**Pavan Krishna**
+
+- Waste Management System
+  
+We are using te best waste management system which is used in most doveloped countries, where there is 0% of waste and also the waste is used in the best and usefull ways.
+in this proccess all the wastage is collected and it will be fired 24 hrs, 365 days a year. During this process the heat produced is used as electricity and the produced 
+electricity is enought to run a city and the harmfull air which is released after the firing plastic ets is purified into pure and fresh air and then it is released into the 
+atmosphere. The waste or the ash which is left is transformed into brickes and can be used for path ways in park. 
+
+- Electricity
+  
+There are many ways to produce electricity in our smart city one with solar plant and one the part of waste management system. This electricity produced is enough to run a city without any interruption of electicity.
+
+- Food preservation
+  
+There is huge food wastage in many areas or countries the food wastage or the food which is left can be used as ferilizers which is very helpful to plants and trees to grow 
+and the soil will remain safe and also the food does not gets spoilled by chemical fertilizers.
+  
+- Pollution
+  
+There are plenty of trees in our city to reduce the pollution and to reducce the production of pollution we are using electric vehicles and thiss will be helpful to increase 
+the health of earth and can reduce global warming.
+  
+- Water preservation
+  
+The water wich are used will be sent into the ground using some techniques the used water will be purified naturally and for drinking water the water from the lake will
+be supplied to every house after getting filtered.
 
 ## Topic Learning Outcomes
 
 - Rajath : https://docs.google.com/document/d/1JzEBxDjt8cXm7sofgKQQrf-ANizHHSTJSEZmQ0RPolc/edit?usp=sharing
-- Pavan Krishna : 
+- Pavan Krishna : https://docs.google.com/document/d/e/2PACX-1vToS7JumOT3JY-8GcWJvqTG5dQ0ko1qZOZWgVAvxTYq9Vkvo3_fuVSrdJ0ba5MVaOAxpROUfmk-bX0x/pub

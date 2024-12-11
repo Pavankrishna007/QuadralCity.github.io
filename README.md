@@ -28,19 +28,19 @@ The proposal must cover various aspects such as:
 - **Natural features:** Mountains, lakes, and water bodies
 
 ## Overview of Quadaral City
-                  Quadaral City is a forward-thinking smart city located near the border of Karnataka and Andhra Pradesh, covering 1,500 square kilometers above the 
-Thungabhadra River. Positioned between key towns like Hatti, Maski, Manvi, and Sirwar, it serves as an important urban center in the region. The city integrates modern 
-technology with sustainable practices, offering a high quality of life while reducing its environmental impact. With an emphasis on green spaces, efficient public transport, 
-and renewable energy, Quadaral is designed to be a model of modern urban living.
+Quadaral City is a forward-thinking smart city located near the border of Karnataka and Andhra Pradesh, covering 1,500 square kilometers above the Thungabhadra River. 
+Positioned between key towns like Hatti, Maski, Manvi, and Sirwar, it serves as an important urban center in the region. The city integrates modern technology with
+sustainable practices, offering a high quality of life while reducing its environmental impact. With an emphasis on green spaces, efficient public transport, and
+renewable energy, Quadaral is designed to be a model of modern urban living.
 
-                  The city is equipped with advanced systems for water management, energy conservation, and public safety. Artificial intelligence (AI) is used to manage 
-traffic, waste, and city services, ensuring smooth and efficient operations. Quadaral’s healthcare and education facilities use cutting-edge technologies to deliver 
-excellent services, while its booming industrial and commercial sectors benefit from strategic connections to surrounding areas. This combination of factors makes Quadaral a 
-hub of innovation and economic growth.
+The city is equipped with advanced systems for water management, energy conservation, and public safety. Artificial intelligence (AI) is used to manage traffic, waste, and
+city services, ensuring smooth and efficient operations. Quadaral’s healthcare and education facilities use cutting-edge technologies to deliver excellent services, while
+its booming industrial and commercial sectors benefit from strategic connections to surrounding areas. This combination of factors makes Quadaral a hub of innovation and
+economic growth.
 
-                  Culturally rich and diverse, Quadaral City celebrates the traditions of both Karnataka and Andhra Pradesh through festivals, art exhibitions, and cultural 
-events. The city’s governance system is transparent and encourages active citizen participation, ensuring the community’s involvement in its growth. With its progressive 
-approach to urban development, Quadaral City is a shining example of sustainable growth and the future of urban living.
+Culturally rich and diverse, Quadaral City celebrates the traditions of both Karnataka and Andhra Pradesh through festivals, art exhibitions, and cultural events. The city’s
+governance system is transparent and encourages active citizen participation, ensuring the community’s involvement in its growth. With its progressive approach to urban
+development, Quadaral City is a shining example of sustainable growth and the future of urban living.
 
 
 

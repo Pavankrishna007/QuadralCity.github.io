@@ -2,10 +2,10 @@
 
 ## The Team
 
-- **Pavan Krishna Sai. D**
-- **Rajat**
-- **Rahul**
-- **Shreedhar**
+- **Pavan Krishna Sai. D - 536**
+- **Rajat.H.R - 510**
+- **Rahul.S.M - 565**
+- **Shreedhar.M.H - 520**
 
 ## Project Overview
 

@@ -1,5 +1,3 @@
-# QuadaralCity.github.io
-
 ## Quadaral City
 
 ## The Team

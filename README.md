@@ -52,9 +52,11 @@ Each business use case contributes to specific SDGs, ensuring that local solutio
 ## Business Use Cases
 
 - Transportation
+  
 An innovative transport solution focused on efficient, sustainable mobility within the city, improving urban infrastructure and reducing traffic congestion.
 
 - Waste Management System
+  
 We are using te best waste management system which is used in most doveloped countries, where there is 0% of waste and also the waste is used in the best and usefull ways.
 
 - Electricity

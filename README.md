@@ -3,7 +3,7 @@
 ## The Team ( Team No : 9)
 
 - **Pavan Krishna Sai. D - 536**
-- **Rajat.H.R - 510**
+- **Rajath.H.R - 510**
 - **Rahul.S.M - 565**
 - **Shreedhar.M.H - 520**
 
@@ -79,5 +79,5 @@ be supplied to every house after getting filtered.
 
 ## Topic Learning Outcomes
 
-- Rajat : https://docs.google.com/document/d/e/2PACX-1vTeE6mvPZ52FSTXsFmfLDYepBWRYBi1-rfUA4i7jl-h2XQupn-ymuIlBewtSuwwlAt87bIxuLbqPhYa/pub
+- Rajath : https://docs.google.com/document/d/e/2PACX-1vTeE6mvPZ52FSTXsFmfLDYepBWRYBi1-rfUA4i7jl-h2XQupn-ymuIlBewtSuwwlAt87bIxuLbqPhYa/pub
 - Pavan Krishna : 

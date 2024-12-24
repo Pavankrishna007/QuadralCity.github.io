@@ -80,5 +80,5 @@ be supplied to every house after getting filtered.
 
 ## Topic Learning Outcomes
 
-###Rajath : https://docs.google.com/document/d/1JzEBxDjt8cXm7sofgKQQrf-ANizHHSTJSEZmQ0RPolc/edit?usp=sharing
-###Pavan Krishna : https://docs.google.com/document/d/e/2PACX-1vToS7JumOT3JY-8GcWJvqTG5dQ0ko1qZOZWgVAvxTYq9Vkvo3_fuVSrdJ0ba5MVaOAxpROUfmk-bX0x/pub
+-Rajath : https://docs.google.com/document/d/1JzEBxDjt8cXm7sofgKQQrf-ANizHHSTJSEZmQ0RPolc/edit?usp=sharing
+-Pavan Krishna : https://docs.google.com/document/d/e/2PACX-1vToS7JumOT3JY-8GcWJvqTG5dQ0ko1qZOZWgVAvxTYq9Vkvo3_fuVSrdJ0ba5MVaOAxpROUfmk-bX0x/pub

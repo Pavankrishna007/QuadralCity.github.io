@@ -50,15 +50,12 @@ Sustainable Development Goals are a set of 17 global goals established by the Un
 
 Each business use case contributes to specific SDGs, ensuring that local solutions have a global impact. By aligning business strategies with these goals, we aim to foster positive social, economic, and environmental outcomes within our city.
 
-## Business Use Cases
+## Business Use Cases And Topic Learning Outcomes
+
+RAJATH -- [click here](https://sites.google.com/d/14FWi8nj6E0xKd4WxrdOyPfrz2MhLPLLl/p/1plOy2YqczlsmEyyS8EB4lRJgUyoREyhV/edit)
 
 PAVAN KRISHNA -- [click here](https://sites.google.com/kletech.ac.in/businesscases/home)
 
-## Topic Learning Outcomes
-
-RAJATH -- [click here](https://docs.google.com/document/d/1JzEBxDjt8cXm7sofgKQQrf-ANizHHSTJSEZmQ0RPolc/edit?usp=sharing)
-
 PAVAN KRISHNA -- [click here](https://docs.google.com/document/d/e/2PACX-1vToS7JumOT3JY-8GcWJvqTG5dQ0ko1qZOZWgVAvxTYq9Vkvo3_fuVSrdJ0ba5MVaOAxpROUfmk-bX0x/pub): 
-
 
 SHREEDHAR --[click here](https://sites.google.com/kletech.ac.in/courselearningoutcome/home)

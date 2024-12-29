@@ -52,7 +52,7 @@ Each business use case contributes to specific SDGs, ensuring that local solutio
 
 ## Business Use Cases
 
-PAVAN KRISHNA -- [click here]()
+PAVAN KRISHNA -- [click here](https://sites.google.com/kletech.ac.in/businesscases/home)
 
 ## Topic Learning Outcomes
 
